@@ -1,0 +1,11 @@
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp2.2\LambdaExpressions.deps.json
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp2.2\LambdaExpressions.runtimeconfig.json
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp2.2\LambdaExpressions.runtimeconfig.dev.json
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp2.2\LambdaExpressions.dll
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp2.2\LambdaExpressions.pdb
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp2.2\LambdaExpressions.csprojAssemblyReference.cache
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp2.2\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp2.2\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp2.2\LambdaExpressions.AssemblyInfo.cs
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp2.2\LambdaExpressions.dll
+C:\Users\ertugrul.gamgam\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp2.2\LambdaExpressions.pdb
